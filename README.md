@@ -6,7 +6,8 @@
 
    ![download](https://github.com/user-attachments/assets/0b685abe-afb2-4d0c-a5f5-70408a00d470)
 
-L'output ottenuto:
+
+## L'output ottenuto:
 
 ### Customer personas:
 
