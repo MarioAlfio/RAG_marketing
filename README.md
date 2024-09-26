@@ -1,4 +1,4 @@
-## Generazione di customer personas
+# Generazione di customer personas
 
 1. Ho preso le informazioni facendo scrapingdei commenti di un video di YouTube che parla di un viaggio fatto in barca a vela.
 2. Trascritto il video
@@ -8,7 +8,7 @@
 
 L'output ottenuto:
 
-## Customer personas:
+### Customer personas:
 
 1. Who: Persona 1
    Goal: Fare un viaggio che desiderava fare
@@ -22,7 +22,7 @@ L'output ottenuto:
    Goal: Seguire viaggi non banali
    Barrier: Sentimento di tristezza e malinconia
 
-# Keywords:
+### Keywords:
 - Navigare
 - Solcato i mari
 - Viaggio verso sud
@@ -38,5 +38,4 @@ L'output ottenuto:
 - Competenze nautiche
 - Curiosità
 - Beneteau
-- Ciao bianco
 - Tristezza e malinconia
