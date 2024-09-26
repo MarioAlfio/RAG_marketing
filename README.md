@@ -1,6 +1,6 @@
 # Generazione di customer personas
 
-1. Ho preso le informazioni facendo scrapingdei commenti di un video di YouTube che parla di un viaggio fatto in barca a vela.
+1. Ho preso le informazioni facendo scraping dei commenti di un video di YouTube che parla di un viaggio fatto in barca a vela.
 2. Trascritto il video
 3. Creato una strategia di Adaptive RAG (info:https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_adaptive_rag.ipynb)
 
